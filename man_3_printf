@@ -85,4 +85,8 @@ Upon success, these main function will return the number of characters printed.
 Memory issues are known to frequent this function. User beware.
 
 .SH "AUTHOR"
+<<<<<<< HEAD
 Ikram Awol and Yusra mohammed
+=======
+Ikram Awol and Yusra mohammed
+>>>>>>> 2f46e441d1b495f9aba8ee1012ec3a5913042c3b
